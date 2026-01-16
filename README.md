@@ -7,7 +7,6 @@ A production-ready FastAPI-based AI backend with authentication, chat history, t
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
 ![Alembic](https://img.shields.io/badge/Migrations-Alembic-4B32C3)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange?logo=jsonwebtokens)
-![CI](https://github.com/berkaykhrmn/fastapi-ai-backend/actions/workflows/ci.yml/badge.svg)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
