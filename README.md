@@ -23,6 +23,7 @@ You only need:
 
 - **Docker** (Docker Desktop recommended)
 - **Docker Compose** (included with Docker Desktop)
+
 ⚠️ Important: Docker Desktop must be running before you execute any docker or docker compose commands. On Windows and macOS, make sure the Docker Desktop application is open and the Docker engine is started.
 
 No local Python installation or virtual environment is required.
