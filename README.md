@@ -191,20 +191,3 @@ If you prefer to run without Docker:
    ```bash
    uvicorn app.main:app --reload
    ```
-
-### Database Migrations
-
-**Create a new migration:**
-```bash
-docker compose exec app alembic revision --autogenerate -m "description"
-```
-
-**Apply migrations:**
-```bash
-docker compose exec app alembic upgrade head
-```
-
-**Rollback migration:**
-```bash
-docker compose exec app alembic downgrade -1
-```
