@@ -2,8 +2,6 @@
 
 A production-ready FastAPI-based AI backend with authentication, chat history, text summarization, and translation features. The project is fully Dockerized and integrates with Google Gemini for AI capabilities.
 
-This repository is designed with security, clarity, and scalability in mind. No secrets are committed, and setup is straightforward for any developer.
-
 ## ✨ Features
 
 - **FastAPI + Uvicorn** - Modern, fast web framework
