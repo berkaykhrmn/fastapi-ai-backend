@@ -2,6 +2,13 @@
 
 A production-ready FastAPI-based AI backend with authentication, chat history, text summarization, and translation features. The project is fully Dockerized and integrates with Google Gemini for AI capabilities.
 
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## ✨ Features
 
 - **FastAPI + Uvicorn** - Modern, fast web framework
