@@ -2,14 +2,14 @@
 
 A production-ready FastAPI-based AI backend with authentication, chat history, text summarization, and translation features. The project is fully Dockerized and integrates with Google Gemini for AI capabilities.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi)
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
-![Alembic](https://img.shields.io/badge/Migrations-Alembic-4B32C3)
-![JWT](https://img.shields.io/badge/Auth-JWT-orange?logo=jsonwebtokens)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-4285F4?logo=google)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.128+-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-4B32C3?logo=alembic&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## ✨ Features
 
